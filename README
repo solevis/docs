@@ -1,0 +1,11 @@
+Installation
+============
+
+python bootstrap.py -d
+./bin/buildout
+
+Usage
+=====
+
+cd solevis
+make html
